@@ -1,7 +1,7 @@
 <div>
   
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=gradient&height=300&section=header&text=Fairytale%20App%20%F0%9F%93%96)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=300&section=header&text=Fairytale%20App%20%F0%9F%93%96)
   
 </div>
 <div>
@@ -119,9 +119,9 @@
   <br/>
   
   ## 🤔 Project Stats
-  [![GitHub stars](https://img.shields.io/github/stars/ansdud923/fairytale-app)](https://github.com/ansdud923/fairytale-app)
-  [![GitHub forks](https://img.shields.io/github/forks/ansdud923/fairytale-app)](https://github.com/ansdud923/fairytale-app)
-  [![GitHub issues](https://img.shields.io/github/issues/ansdud923/fairytale-app)](https://github.com/ansdud923/fairytale-app)
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ansdud923&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  <br/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansdud923&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
   <br/>
   
@@ -136,7 +136,7 @@
   <br/>
   
   ## 📋 Development Info
-  #### 📅 **개발기간**: 2025년 6월 (36일)
+  #### 📅 **개발기간**: 2024년 6월
   #### 👥 **팀구성**: 1조 팀 (풀스택 협업)
   #### 📱 **버전**: v1.0.0
   #### 🎯 **타겟**: 부모와 아이를 위한 교육 앱
