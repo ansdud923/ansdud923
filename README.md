@@ -1,7 +1,7 @@
 <div>
   
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=Slice&color=gradient&height=300&section=header&text=Fairytale%20App%20%F0%9F%93%96)
+  ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=gradient&height=300&section=header&text=Fairytale%20App%20%F0%9F%93%96)
   
 </div>
 <div>
