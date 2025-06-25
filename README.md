@@ -10,40 +10,19 @@
 ## 🧱 Tech Stack
 
 ### Frontend
-<!--Flutter-->
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-<!--Dart-->
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
 
 ### Backend
-<!--Spring Boot-->
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
-<!--Python-->
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<!--FastAPI-->
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
 
 ### Database & Storage
-<!--PostgreSQL-->
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<!--Amazon AWS-->
-<img src="https://img.shields.io/badge/Amazon_S3-FF9900?style=flat-square&logo=amazon-s3&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon_S3-FF9900?style=flat-square&logo=amazon-s3&logoColor=white"/> <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white"/> <img src="https://img.shields.io/badge/AWS_RDS-527FFF?style=flat-square&logo=amazon-rds&logoColor=white"/>
 
 ### AI & APIs
-<!--OpenAI-->
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-<!--Stability AI-->
-<img src="https://img.shields.io/badge/Stability_AI-000000?style=flat-square&logo=stability-ai&logoColor=white"/>
-<!--YouTube API-->
-<img src="https://img.shields.io/badge/YouTube_API-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Stability_AI-000000?style=flat-square&logo=stability-ai&logoColor=white"/> <img src="https://img.shields.io/badge/YouTube_API-FF0000?style=flat-square&logo=youtube&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
 
 ### Tools
-<!--GitHub-->
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<!--Notion-->
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
-<!--Figma-->
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 
 ## 🌟 Main Features
 #### 🎨 AI 동화 생성 - OpenAI GPT를 활용한 개인화된 동화 창작
