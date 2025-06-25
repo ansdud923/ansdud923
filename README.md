@@ -119,9 +119,16 @@
   <br/>
   
   ## 🤔 Project Stats
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ansdud923&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ansdud923&show_icons=true&theme=sunset-gradient&title_color=FF6B6B&text_color=8B4513&bg_color=0,FFCCCB,FFFFE0&border_color=FF6B6B)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansdud923&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansdud923&layout=compact&theme=sunset-gradient&title_color=FF6B6B&text_color=8B4513&bg_color=0,FFCCCB,FFFFE0&border_color=FF6B6B&hide=python,jupyter%20notebook&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+  <br/>
+  
+  ### 💻 My Main Technologies (Fairytale App)
+  #### 📱 **Frontend**: Flutter/Dart - 모바일 앱 전체 개발
+  #### 🌐 **Backend**: Spring Boot/Java - API 서버 및 인증 시스템  
+  #### 🗄️ **Database**: MySQL - 데이터베이스 설계 및 관리
+  #### ☁️ **DevOps**: AWS S3 - 파일 스토리지 및 배포
   <br/>
   <br/>
   
@@ -136,7 +143,7 @@
   <br/>
   
   ## 📋 Development Info
-  #### 📅 **개발기간**: 2024년 6월
+  #### 📅 **개발기간**: 2025년 6월
   #### 👥 **팀구성**: 1조 팀 (풀스택 협업)
   #### 📱 **버전**: v1.0.0
   #### 🎯 **타겟**: 부모와 아이를 위한 교육 앱
