@@ -1,7 +1,7 @@
 <div>
   
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Fairytale%20App%20%F0%9F%93%96)
+  ![header](https://capsule-render.vercel.app/api?type=Slice&color=gradient&height=300&section=header&text=Fairytale%20App%20%F0%9F%93%96)
   
 </div>
 <div>
@@ -136,7 +136,7 @@
   <br/>
   
   ## 📋 Development Info
-  #### 📅 **개발기간**: 2024년 6월
+  #### 📅 **개발기간**: 2025년 6월 (36일)
   #### 👥 **팀구성**: 1조 팀 (풀스택 협업)
   #### 📱 **버전**: v1.0.0
   #### 🎯 **타겟**: 부모와 아이를 위한 교육 앱
