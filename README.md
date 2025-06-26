@@ -37,7 +37,8 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
 
-### 💻 Programming & Scripting (학원 수료)
+### 💻 Programming & Scripting
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -49,23 +50,25 @@
 
 ## 📊 GitHub Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ansdud923&show_icons=true&theme=chartreuse-dark&title_color=00FF7F&text_color=32CD32&bg_color=0,1a1a1a,2d2d2d&border_color=00FF7F)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ansdud923&show_icons=true&theme=vue-light&title_color=2E8B57&text_color=4169E1&bg_color=0,f0f8ff,e6ffe6&border_color=2E8B57)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansdud923&layout=compact&theme=chartreuse-dark&title_color=00FF7F&text_color=32CD32&bg_color=0,1a1a1a,2d2d2d&border_color=00FF7F&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansdud923&layout=compact&theme=vue-light&title_color=2E8B57&text_color=4169E1&bg_color=0,f0f8ff,e6ffe6&border_color=2E8B57&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🚀 Learning Projects
 
-### 🖥️ [AI 동화 앱 인프라 구축](https://github.com/ansdud923/fairytale-app)
-> Flutter + Spring Boot + Python 풀스택 앱의 AWS 인프라 담당
+### 🚀 Featured Projects
 
-**담당 업무**: 
+### 📖 [엄빠, 읽어도!](https://github.com/ansdud923/fairytale-app) - 학원 팀 프로젝트
+> AI 기반 개인화 동화생성 모바일 애플리케이션 (팀 프로젝트)
+
+**담당 역할**: 인프라 및 서버 관리 
 - 🏗️ AWS EC2 인스턴스 설정 및 관리
 - 🗄️ RDS PostgreSQL 데이터베이스 구축
 - 📦 S3 스토리지 설정 및 파일 관리
 - 🔐 보안 그룹 및 네트워크 설정
 - 🚀 서버 배포 및 운영
 
-**사용 기술**: `AWS EC2` `RDS` `S3` `Ubuntu` `Nginx` `Docker`
+**팀 사용 기술**: `Flutter` `Spring Boot` `Python FastAPI` `PostgreSQL` `AWS`
 
 ### 📋 개인 학습 프로젝트들
 
@@ -88,21 +91,26 @@ systemctl status nginx     # 서비스 상태 확인
 ## 📚 Learning Journey
 
 ```
-2024.05           🏆 AWS Solutions Architect Associate 자격증 취득
-
-2024.05 ~ 2024.06  🎨 AI 동화 앱 인프라 담당
-                    - AWS EC2/RDS/S3 설정 및 관리
-                    - Ubuntu 서버 환경 구축
-                    - Spring Boot/Python 서버 배포
-                    - 데이터베이스 연동 및 관리
-
-2024.01 ~ 2024.04  🎓 학원 과정 수료
+2024.01 ~ 2024.06  🎓 학원 6개월 과정 수료
                     - Python 기초 (NumPy, Pandas)
                     - Spring Boot 웹 개발
                     - SQL 및 데이터베이스 관리
                     - AWS 클라우드 서비스
                     - Streamlit 데이터 시각화
                     - Flutter 모바일 앱 기초
+
+2024.05           🏆 AWS Solutions Architect Associate 자격증 취득
+
+2024.05 ~ 2024.06  🎨 학원 팀 프로젝트 "엄빠, 읽어도!" 
+                    - AI 동화 생성 앱 인프라 담당
+                    - AWS EC2/RDS/S3 설정 및 관리
+                    - Ubuntu 서버 환경 구축
+                    - Spring Boot/Python 서버 배포
+
+2024.07 ~ 현재    💻 Java 심화 학습 중 (코딩애플 강의)
+                    - Java 기초 문법 및 객체지향
+                    - 자료구조와 알고리즘
+                    - 실무 프로젝트 준비
 ```
 
 ## 🎯 2025년 학습 목표
@@ -117,8 +125,8 @@ systemctl status nginx     # 서비스 상태 확인
 - [ ] 📊 **모니터링 도구**: Prometheus, Grafana 학습
 - [ ] 🔄 **CI/CD**: Jenkins, GitHub Actions 실습
 - [ ] 🐳 **컨테이너**: Docker Compose, Kubernetes 심화
-- [ ] 📜 **IaC**: Terraform, CloudFormation 실무 적용
-- [ ] 📈 **데이터 엔지니어링**: 학원에서 배운 Python/Pandas 활용하여 로그 분석
+- [ ] 📈 **백엔드 개발**: Java + Spring Boot 실무 프로젝트 경험
+- [ ] 🔧 **DevOps**: 학원에서 배운 기초를 바탕으로 CI/CD 파이프라인 구축
 
 ### 💼 실무 경험 목표
 - [ ] 👥 **인턴십 지원**: 서버/인프라 관련 인턴 경험
@@ -128,15 +136,15 @@ systemctl status nginx     # 서비스 상태 확인
 ## 📈 현재 학습 중인 것들
 
 ### 📚 현재 공부 중인 것들
+- 💻 "코딩애플 Java 강의" - 현재 수강 중
 - 📘 "정보처리기사 실기" - 시나공
 - 📕 "리눅스마스터 2급" - 한빛미디어  
-- 📗 "파이썬으로 배우는 시스템 트레이딩" - 학원에서 배운 기초 활용
 
-### 🎓 학원 수료 과정 심화 학습
+### 🎓 학원에서 배운 것들 심화 활용
+- Java + Spring Boot 백엔드 개발 역량 강화
 - Python 데이터 분석을 활용한 서버 로그 분석
-- Spring Boot 기반 모니터링 대시보드 구축
-- Streamlit으로 인프라 상태 시각화
-- AWS 서비스들 간의 연동 및 자동화
+- AWS 서비스들 간의 연동 및 자동화 스크립트 작성
+- Streamlit으로 인프라 모니터링 대시보드 구축
 
 ## 💻 Daily Routine
 
@@ -160,8 +168,8 @@ tail -50 /var/log/syslog # 최근 시스템 로그
 
 <div align="center">
 
-### 💡 "AWS 자격증 보유, 학원 과정 수료한 예비 시스템 관리자" 💡
-### 🌱 "Python과 클라우드로 데이터 기반 인프라 관리를 꿈꾸는 신입"
+### 💡 "AWS 자격증 + 학원 6개월 수료 + Java 학습 중인 예비 개발자" 💡
+### 🌱 "인프라와 백엔드 개발을 아우르는 풀스택 엔지니어를 꿈꾸며"
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ansdud923.ansdud923)
 
