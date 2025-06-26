@@ -117,13 +117,12 @@ systemctl status nginx     # 서비스 상태 확인
 
 ### 📜 자격증 취득 계획
 - [x] 🏆 **AWS Solutions Architect Associate** ✅ (2024.05 취득)
-- [ ] 💻 **정보처리기사** (준비 중 - 2025년 상반기 목표)
-- [ ] 🐧 **리눅스마스터 2급** (준비 중 - 2025년 상반기 목표)
-- [ ] 🔒 **정보보안기사** (하반기 목표)
+- [ ] 💻 **정보처리기사** (준비 중 - 2025년 하반기 목표)
+- [ ] 🐧 **리눅스마스터 2급** (준비 중 - 2025년 하반기 목표)
 
 ### 🛠️ 기술 스킬 향상
 - [ ] 📊 **모니터링 도구**: Prometheus, Grafana 학습
-- [ ] 🔄 **CI/CD**: Jenkins, GitHub Actions 실습
+- [ ] 🔄 **CI/CD**: GitHub Actions 실습
 - [ ] 🐳 **컨테이너**: Docker Compose, Kubernetes 심화
 - [ ] 📈 **백엔드 개발**: Java + Spring Boot 실무 프로젝트 경험
 - [ ] 🔧 **DevOps**: 학원에서 배운 기초를 바탕으로 CI/CD 파이프라인 구축
