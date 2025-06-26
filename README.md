@@ -141,6 +141,59 @@ python/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansdud923&layout=compact&theme=sunset-gradient&title_color=FF6B6B&text_color=8B4513&bg_color=0,FFCCCB,FFFFE0&border_color=FF6B6B&hide=python,jupyter%20notebook&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
+## 📱 Screenshots
+<div align="center">
+
+| 홈 화면 | 동화 생성 | 색칠공부 | 갤러리 |
+|:---:|:---:|:---:|:---:|
+| ![홈화면](https://via.placeholder.com/200x400/FF6B6B/FFFFFF?text=Home) | ![동화생성](https://via.placeholder.com/200x400/4169E1/FFFFFF?text=Story) | ![색칠공부](https://via.placeholder.com/200x400/6DB33F/FFFFFF?text=Coloring) | ![갤러리](https://via.placeholder.com/200x400/FF9900/FFFFFF?text=Gallery) |
+
+</div>
+
+## 🚀 Getting Started
+
+### Prerequisites
+```bash
+# Flutter 설치 (3.0.0 이상)
+flutter --version
+
+# Java 11 이상
+java --version
+
+# Python 3.8 이상
+python --version
+```
+
+### Installation
+```bash
+# 1. 레포지토리 클론
+git clone https://github.com/ansdud923/fairytale-app.git
+cd fairytale-app
+
+# 2. Flutter 의존성 설치
+cd frontend
+flutter pub get
+
+# 3. Spring Boot 실행
+cd ../backend
+./gradlew bootRun
+
+# 4. Python AI 서버 실행
+cd ../ai-server
+pip install -r requirements.txt
+uvicorn main:app --reload
+```
+
+### Environment Variables
+```bash
+# .env 파일 생성
+OPENAI_API_KEY=your_openai_key
+STABILITY_API_KEY=your_stability_key
+AWS_ACCESS_KEY=your_aws_key
+AWS_SECRET_KEY=your_aws_secret
+DATABASE_URL=your_database_url
+```
+
 ## 🤝 Team Contribution
 이 프로젝트에서 **Flutter 모바일 앱 개발**, **Spring Boot 백엔드 API**, **AWS 인프라 구축**, **데이터베이스 설계** 등 전 영역에 걸쳐 기여했습니다.
 
