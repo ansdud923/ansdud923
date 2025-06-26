@@ -37,10 +37,15 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
 
-### 💻 Programming & Scripting
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+### 💻 Programming & Scripting (학원 수료)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
 ## 📊 GitHub Stats
 
@@ -83,37 +88,37 @@ systemctl status nginx     # 서비스 상태 확인
 ## 📚 Learning Journey
 
 ```
+2024.05           🏆 AWS Solutions Architect Associate 자격증 취득
+
 2024.05 ~ 2024.06  🎨 AI 동화 앱 인프라 담당
                     - AWS EC2/RDS/S3 설정 및 관리
                     - Ubuntu 서버 환경 구축
                     - Spring Boot/Python 서버 배포
                     - 데이터베이스 연동 및 관리
 
-2024.03 ~ 2024.04  🐧 Linux 기초 학습
-                    - Ubuntu/CentOS 명령어 익히기
-                    - 파일 시스템 및 권한 관리
-                    - 프로세스 및 서비스 관리
-                    - 네트워크 기초 및 방화벽 설정
-
-2024.01 ~ 2024.02  ☁️ 클라우드 기초 학습
-                    - AWS 기본 서비스 이해
-                    - 가상화 및 클라우드 개념
-                    - 기본 네트워크 지식
+2024.01 ~ 2024.04  🎓 학원 과정 수료
+                    - Python 기초 (NumPy, Pandas)
+                    - Spring Boot 웹 개발
+                    - SQL 및 데이터베이스 관리
+                    - AWS 클라우드 서비스
+                    - Streamlit 데이터 시각화
+                    - Flutter 모바일 앱 기초
 ```
 
 ## 🎯 2025년 학습 목표
 
 ### 📜 자격증 취득 계획
-- [ ] 🏆 **AWS Solutions Architect Associate** (상반기 목표)
-- [ ] 🐧 **Linux Professional Institute (LPIC-1)** (하반기 목표)
-- [ ] 🔒 **정보보안기사** (여유가 되면...)
+- [x] 🏆 **AWS Solutions Architect Associate** ✅ (2024.05 취득)
+- [ ] 💻 **정보처리기사** (준비 중 - 2025년 상반기 목표)
+- [ ] 🐧 **리눅스마스터 2급** (준비 중 - 2025년 상반기 목표)
+- [ ] 🔒 **정보보안기사** (하반기 목표)
 
 ### 🛠️ 기술 스킬 향상
 - [ ] 📊 **모니터링 도구**: Prometheus, Grafana 학습
 - [ ] 🔄 **CI/CD**: Jenkins, GitHub Actions 실습
-- [ ] 🐳 **컨테이너**: Docker Compose, Kubernetes 기초
-- [ ] 📜 **IaC**: Terraform, CloudFormation 입문
-- [ ] 🔐 **보안**: 기본적인 서버 보안 설정
+- [ ] 🐳 **컨테이너**: Docker Compose, Kubernetes 심화
+- [ ] 📜 **IaC**: Terraform, CloudFormation 실무 적용
+- [ ] 📈 **데이터 엔지니어링**: 학원에서 배운 Python/Pandas 활용하여 로그 분석
 
 ### 💼 실무 경험 목표
 - [ ] 👥 **인턴십 지원**: 서버/인프라 관련 인턴 경험
@@ -122,15 +127,16 @@ systemctl status nginx     # 서비스 상태 확인
 
 ## 📈 현재 학습 중인 것들
 
-### 📚 읽고 있는 책들
-- 📘 "실습과 그림으로 배우는 리눅스 구조" - 다케우치 사토루
-- 📕 "Amazon Web Services 기초부터 실무까지" - 아마존 웹 서비스
-- 📗 "그림으로 공부하는 IT 인프라 구조" - 야마자키 야스시
+### 📚 현재 공부 중인 것들
+- 📘 "정보처리기사 실기" - 시나공
+- 📕 "리눅스마스터 2급" - 한빛미디어  
+- 📗 "파이썬으로 배우는 시스템 트레이딩" - 학원에서 배운 기초 활용
 
-### 🎓 온라인 강의
-- AWS Cloud Practitioner 자격증 준비 과정
-- 리눅스 시스템 관리 기초
-- Docker & Kubernetes 입문
+### 🎓 학원 수료 과정 심화 학습
+- Python 데이터 분석을 활용한 서버 로그 분석
+- Spring Boot 기반 모니터링 대시보드 구축
+- Streamlit으로 인프라 상태 시각화
+- AWS 서비스들 간의 연동 및 자동화
 
 ## 💻 Daily Routine
 
@@ -154,8 +160,8 @@ tail -50 /var/log/syslog # 최근 시스템 로그
 
 <div align="center">
 
-### 💡 "안정적인 서버가 세상을 돌아가게 한다" 💡
-### 🌱 "오늘도 한 줄의 명령어를 배우며 성장하는 예비 시스템 관리자"
+### 💡 "AWS 자격증 보유, 학원 과정 수료한 예비 시스템 관리자" 💡
+### 🌱 "Python과 클라우드로 데이터 기반 인프라 관리를 꿈꾸는 신입"
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ansdud923.ansdud923)
 
