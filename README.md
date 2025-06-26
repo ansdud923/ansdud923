@@ -49,9 +49,9 @@
 
 ## 📊 GitHub Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ansdud923&show_icons=true&theme=radical&title_color=9B59B6&text_color=8E44AD&bg_color=0,ffffff,f8f4ff&border_color=9B59B6)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ansdud923&show_icons=true&theme=radical&title_color=9B59B6&text_color=000000&bg_color=0,ffffff,f8f4ff&border_color=9B59B6)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansdud923&layout=compact&theme=radical&title_color=9B59B6&text_color=8E44AD&bg_color=0,ffffff,f8f4ff&border_color=9B59B6&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansdud923&layout=compact&theme=radical&title_color=9B59B6&text_color=000000&bg_color=0,ffffff,f8f4ff&border_color=9B59B6&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🚀 Learning Projects
 
@@ -159,8 +159,8 @@ tail -50 /var/log/syslog # 최근 시스템 로그
 - E-mail : ansdud923@icloud.com
 - github : http://github.com/ansdud923
 
-[![GitHub](https://img.shields.io/badge/GitHub-8E44AD?style=flat-square&logo=github&logoColor=white)](https://github.com/ansdud923)
-[![Email](https://img.shields.io/badge/Email-9B59B6?style=flat-square&logo=gmail&logoColor=white)](mailto:ansdud923@icloud.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ansdud923)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ansdud923@icloud.com)
 
 ---
 
